@@ -1,4 +1,4 @@
-# Pack-de-textures-FR-pour-Portal-2
+# Pack de textures FR pour Portal 2
 Un pack de textures remplaçant celles en jeu par une version traduite en français, de façon à avoir une traduction française totale de Portal 2.
 
 Le fichier présent est un fichier VPK contenant les textures de Portal 2 traduites en français.
