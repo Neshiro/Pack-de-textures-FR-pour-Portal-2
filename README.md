@@ -7,4 +7,4 @@ Pour installer ce pack, téléchargez puis décompressez le dossier, rendez vous
 
 Pour désinstaller, supprimez simplement le dossier portal2_dlc3.
 
-Pour télécharger, cliquez sur la catégorie "releases" en haut de page.
+Pour télécharger, [cliquez ici](https://github.com/Neshiro/Pack-de-textures-FR-pour-Portal-2/releases).
