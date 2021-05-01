@@ -5,6 +5,6 @@ Le dossier compressé présent contient un fichier VPK contenant les textures de
 
 Pour installer ce pack, téléchargez puis décompressez le dossier, rendez vous dans le dossier d'installation de Portal 2, créez un dossier "portal2_dlc3" puis collez-y le fichier VPK.
 
-Pour désinstaller, supprimez simplement le dossier portal2_dlc3.
+Pour désinstaller, supprimez simplement le fichier VPK.
 
 Pour télécharger, [cliquez ici](https://github.com/Neshiro/Pack-de-textures-FR-pour-Portal-2/releases).
